@@ -16,5 +16,8 @@
   },
   "author": "fcordillot",
   "license": "ISC",
-  "homepage": "https://github.com/fcordillot/cookie#readme"
+  "homepage": "https://github.com/fcordillot/cookie#readme",
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
