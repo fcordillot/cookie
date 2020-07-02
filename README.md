@@ -1,4 +1,4 @@
-# @fcordillot/cookie
+# @fcordillot/cookie ![npm](https://img.shields.io/npm/v/@fcordillot/cookie?color=%23CB0000) ![GitHub file size in bytes](https://img.shields.io/github/size/fcordillot/cookie/index.js?color=%23CB0000) [![Build Status](https://travis-ci.com/fcordillot/cookie.svg?branch=master)](https://travis-ci.com/fcordillot/cookie)
 > A simple Cookie manager in JavaScript
 
 ## Installation
