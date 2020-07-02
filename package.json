@@ -1,0 +1,23 @@
+{
+  "name": "@fcordillot/cookie",
+  "version": "1.0.1",
+  "description": "Simple JS Cookie manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcordillot/cookie.git"
+  },
+  "keywords": [
+    "cookie",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/thibka/cookie-manager/issues"
+  },
+  "author": "fcordillot",
+  "license": "ISC",
+  "homepage": "https://github.com/fcordillot/cookie#readme"
+}
